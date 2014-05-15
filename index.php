@@ -1,3 +1,4 @@
 <?php
-	echo phpinfo();
+echo "My server settings";	
+echo phpinfo();
 ?>
